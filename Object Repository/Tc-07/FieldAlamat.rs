@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FieldAlamat</name>
+   <tag></tag>
+   <elementGuidId>0596cd8e-db23-4151-bc3f-36e06a612c79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name = 'alamat']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>40b33b69-9559-4aab-a37c-eaabe2bf8f7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>alamat</value>
+      <webElementGuid>9fdcdef0-b729-4c80-83f4-ac4bdd410755</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

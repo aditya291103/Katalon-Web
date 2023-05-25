@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>fieldTanggalLahir</name>
+   <tag></tag>
+   <elementGuidId>f901d9c0-ed1d-4681-8060-70e6cf5a0fce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name = 'date']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>81c600e1-c5fc-4967-9f3d-e953ee4c762e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>date</value>
+      <webElementGuid>a9821a73-da38-44fd-ace9-21b75b5a4868</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
